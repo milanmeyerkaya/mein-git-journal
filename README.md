@@ -37,4 +37,4 @@
 **Frage:**      Welcher Befehl wird verwendet, um einen Schnappschuss des Einkaufswagens zu machen?
 
 **Antwort:**    Der Commit Befehl ist ein permanenter Schappschuss des Projekts, in der Supermarkt-Analogie" ein SChnappschuss des          
-                Einkaufswagens zu einem bestimmten Zeitpunkt bevor es weiter zur Kasse geht und bezahlt wird.
+                Einkaufswagens zu einem bestimmten Zeitpunkt bevor es weiter zur Kasse geht und bezahlt wird..
