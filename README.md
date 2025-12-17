@@ -25,4 +25,15 @@ Frage2:     Wo wird in einem verteiltem System (wie Git) die vollständige Proje
 Antwort:    Auf einem verteiltem System wird an zwei Orten gespeichert , lokal und auf einem Server, sodass jeder Entwickler eine         
             vollständige Kopie besitzt.
 
-            
+
+## Der Workflow
+
+Frage:      Was entspricht in der "Supermarkt-Analogie" dem **Einkaufswagen**?
+
+Antwort:    Die Staging Area, in der man sozusagen Dateien markiert - in den Einkaufswagen legt um sie später an der Kasse mit nach Hause zu 
+            nehmen.
+
+Frage:      Welcher Befehl wird verwendet, um einen Schnappschuss des Einkaufswagens zu machen?
+
+Antwort:    Der Commit Befehl ist ein permanenter Schappschuss des Projekts, in der Supermarkt-Analogie" ein SChnappschuss des Einkaufswagens 
+            zu einem bestimmten Zeitpunkt bevor es weiter zur Kasse geht und bezahlt wird.
